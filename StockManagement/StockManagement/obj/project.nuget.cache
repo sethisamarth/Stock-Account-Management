@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UoiQ1ud7u5pTD6pKGfNx+QgsMOkOf2RPDcPa1v5wcY5jujbdy8tVE8amzPcH9YnoT4LBpyK+pEaqLU8eYFPMvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Stock Management Problem\\StockManagement\\StockManagement\\StockManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
